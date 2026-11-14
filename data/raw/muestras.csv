@@ -1,0 +1,13 @@
+nombre,condicion,tejido,edad,sexo,lecturas_millones,rin
+Muestra_01,sano,colon,45,F,32.4,8.9
+Muestra_02,sano,colon,52,M,29.8,8.5
+Muestra_03,sano,colon,38,F,35.1,9.1
+Muestra_04,sano,colon,61,M,31.0,8.4
+Muestra_05,sano,colon,49,F,33.7,8.8
+Muestra_06,sano,colon,55,M,30.2,8.6
+Muestra_07,tumor,colon,58,M,34.5,8.2
+Muestra_08,tumor,colon,64,F,28.9,7.9
+Muestra_09,tumor,colon,47,M,36.2,8.7
+Muestra_10,tumor,colon,69,F,31.8,8.0
+Muestra_11,tumor,colon,53,M,33.1,8.3
+Muestra_12,tumor,colon,60,F,30.6,8.1
